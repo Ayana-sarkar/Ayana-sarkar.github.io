@@ -127,8 +127,8 @@
             </div>
         </div>
         
-        <h1 class="hero-title">Welcome to the Real Sequence Website</h1>
-        <h2 class="hero-subtitle">Developed by Pranit Mondal</h2>
+        <h1 class="hero-title">welcome to jupyterlab</h1>
+        <h2 class="hero-subtitle">Developed by Ayana Sarkar</h2>
         <p class="hero-description">A Complete Learning Resource for BSc Math Honours</p>
     </header>
 
@@ -137,7 +137,7 @@
             <h3 class="toc-title">Table of Contents</h3>
             
             <ul class="toc-list">
-                <li class="toc-item">1. <a href="#">Real Sequence</a></li>
+                <li class="toc-item">1. <a href="#">Launching</a></li>
                 <li class="toc-item">2. <a href="#">Convergent Sequence</a></li>
                 <li class="toc-item">3. <a href="#">Divergent Sequence</a></li>
                 <li class="toc-item">4. <a href="#">Limit Points of a Sequence</a></li>
