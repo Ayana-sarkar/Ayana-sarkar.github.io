@@ -149,3 +149,23 @@
 
 </body>
 </html>
+<div class="card">
+    <h3 class="card-title">Definition</h3>
+    <p>A mapping f: N → R...</p>
+</div>
+
+<div class="card" style="margin-top: 30px;">
+    <h3 class="card-title">Illustrative Examples</h3>
+    <p>Let's look at a few fundamental sequences to build an intuitive grasp:</p>
+    <ul class="example-list">
+        <li><strong>Harmonic Sequence:</strong> <code>{1/n}</code> = 1, 1/2, 1/3, 1/4, ... (Decreasing and approaches 0)</li>
+        <li><strong>Alternating Sequence:</strong> <code>{(-1)ⁿ}</code> = -1, 1, -1, 1, ... (Oscillates statically)</li>
+    </ul>
+</div>
+
+<div class="card" style="margin-top: 30px;">
+    <h3 class="card-title">Boundedness of a Sequence</h3>
+    <p>A sequence <code>{u_n}</code> is said to be:</p>
+    <p>1. <strong>Bounded Above</strong> if there exists a real number <em>M</em> such that <code>u_n ≤ M</code> for all n ∈ ℕ.</p>
+    <p>2. <strong>Bounded Below</strong> if there exists a real number <em>m</em> such that <code>u_n ≥ m</code> for all n ∈ ℕ.</p>
+</div>
