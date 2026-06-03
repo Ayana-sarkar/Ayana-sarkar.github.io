@@ -121,7 +121,7 @@
 
     <header>
         <div class="navbar">
-            <a href="#" class="logo">Real Sequences</a>
+            <a href="#" class="logo">Jupyterlab</a>
             <div class="nav-links">
                 <a href="#">Home</a>
             </div>
