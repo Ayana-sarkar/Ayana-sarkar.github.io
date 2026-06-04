@@ -170,5 +170,5 @@
     <p>2. <strong>Bounded Below</strong> if there exists a real number <em>m</em> such that <code>u_n ≥ m</code> for all n ∈ ℕ.</p>
 </div>
 <ul class="toc-list">
-    <li class="toc-item">1. <a href="launching.html">Launchingh2</a></li>
+    <li class="toc-item">1. <a href=" https://ayana-sarkar.github.io/JupyterLab4.github.io/">Launchingh2</a></li>
     </ul>
